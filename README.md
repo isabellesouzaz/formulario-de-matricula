@@ -52,7 +52,7 @@ Projeto de formulário de matrícula para a escola de educação infantil **Estr
 Basta abrir o arquivo `index.html` no navegador. Não há dependências ou instalação necessárias.
 
 ```bash
-git clone <(https://github.com/isabellesouzaz/formulario-de-matricula)>
+git clone https://github.com/isabellesouzsv/formulario-de-matricula
 cd formulario-de-matricula
 ```
 
